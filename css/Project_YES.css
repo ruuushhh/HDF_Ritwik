@@ -1,0 +1,521 @@
+.mediaViewInfo {
+  --web-view-name: Project YES;
+  --web-view-id: Project_YES;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-enable-scale-up: true;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: Project_YES;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+#Project_YES {
+  position: absolute;
+  width: 1346px;
+  height: 2392px;
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+  --web-view-name: Project YES;
+  --web-view-id: Project_YES;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-enable-scale-up: true;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+#Group_28 {
+  position: absolute;
+  width: 1351px;
+  height: 3079px;
+  left: -3px;
+  top: 1px;
+  overflow: visible;
+}
+#Rectangle_1 {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_1 {
+  position: absolute;
+  overflow: visible;
+  width: 1349px;
+  height: 3079px;
+  left: 0px;
+  top: 0px;
+}
+#Rectangle_6 {
+  fill: rgba(0, 0, 0, 0);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_6 {
+  position: absolute;
+  overflow: visible;
+  width: 40px;
+  height: 40px;
+  left: 299px;
+  top: 2918px;
+}
+#Rectangle_7 {
+  fill: rgba(0, 0, 0, 0);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_7 {
+  position: absolute;
+  overflow: visible;
+  width: 14px;
+  height: 16px;
+  left: 312px;
+  top: 2930px;
+}
+#Rectangle_16 {
+  fill: rgba(0, 0, 0, 0);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_16 {
+  position: absolute;
+  overflow: visible;
+  width: 25px;
+  height: 16px;
+  left: 121px;
+  top: 2873px;
+}
+#Rectangle_17 {
+  fill: rgba(0, 0, 0, 0);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_17 {
+  position: absolute;
+  overflow: visible;
+  width: 25px;
+  height: 16px;
+  left: 121px;
+  top: 2833px;
+}
+#Rectangle_18 {
+  fill: rgba(0, 0, 0, 0);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_18 {
+  position: absolute;
+  overflow: visible;
+  width: 25px;
+  height: 16px;
+  left: 121px;
+  top: 2793px;
+}
+#Rectangle_29 {
+  fill: rgba(243, 246, 255, 1);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_29 {
+  position: absolute;
+  overflow: visible;
+  width: 363px;
+  height: 505px;
+  left: 106px;
+  top: 1436px;
+}
+#Ways_to_incorporate_this_learn {
+  left: 170px;
+  top: 1849px;
+  position: absolute;
+  overflow: visible;
+  width: 243px;
+  height: 56px;
+  line-height: 24px;
+  margin-top: -4px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(119, 119, 119, 1);
+}
+#Strategies_to_restructure_thou {
+  left: 180px;
+  top: 1760px;
+  position: absolute;
+  overflow: visible;
+  width: 237px;
+  height: 53px;
+  line-height: 24px;
+  margin-top: -4px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(119, 119, 119, 1);
+}
+#Practical_step-by-step_underst {
+  left: 175px;
+  top: 1624px;
+  position: absolute;
+  overflow: visible;
+  width: 233px;
+  height: 100px;
+  line-height: 24px;
+  margin-top: -4px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(119, 119, 119, 1);
+}
+#Training_youth_in_first_aid_me {
+  left: 173px;
+  top: 1475px;
+  position: absolute;
+  overflow: visible;
+  width: 251px;
+  height: 104px;
+  line-height: 30px;
+  margin-top: -2.5px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgba(74, 76, 112, 1);
+}
+#Rectangle_31 {
+  fill: rgba(201, 228, 202, 1);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_31 {
+  position: absolute;
+  overflow: visible;
+  width: 1349px;
+  height: 551px;
+  left: 2px;
+  top: 698px;
+}
+#Mask_Group_1 {
+  position: absolute;
+  width: 1140px;
+  height: 134px;
+  left: 106px;
+  top: 871px;
+  overflow: visible;
+}
+#Aim_And_Objective {
+  left: 326px;
+  top: 781px;
+  position: absolute;
+  overflow: hidden;
+  width: 701px;
+  height: 54px;
+  line-height: 54px;
+  margin-top: -4.5px;
+  text-align: center;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  color: rgba(0, 0, 0, 1);
+}
+#There_is_a_lack_of_mental_heal {
+  left: 202px;
+  top: 269px;
+  position: absolute;
+  overflow: visible;
+  width: 591px;
+  height: 379px;
+  line-height: 27px;
+  margin-top: -4.5px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(119, 119, 119, 1);
+}
+#Project_YES_ {
+  left: 202px;
+  top: 172px;
+  position: absolute;
+  overflow: hidden;
+  width: 371px;
+  height: 82px;
+  line-height: 76.80000305175781px;
+  margin-top: -6.400001525878906px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  color: rgba(201, 228, 202, 1);
+}
+#image1-removebg-preview {
+  position: absolute;
+  width: 370px;
+  height: 370px;
+  left: 490px;
+  top: 1486px;
+  overflow: visible;
+}
+#Rectangle_48 {
+  fill: rgba(243, 246, 255, 1);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_48 {
+  position: absolute;
+  overflow: visible;
+  width: 363px;
+  height: 505px;
+  left: 883px;
+  top: 1436px;
+}
+#Ways_to_encourage_individuals_ {
+  left: 958px;
+  top: 1832px;
+  position: absolute;
+  overflow: visible;
+  width: 243px;
+  height: 73px;
+  line-height: 24px;
+  margin-top: -4px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(119, 119, 119, 1);
+}
+#Dos_and_donts_when_communicati {
+  left: 957px;
+  top: 1739px;
+  position: absolute;
+  overflow: visible;
+  width: 237px;
+  height: 74px;
+  line-height: 24px;
+  margin-top: -4px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(119, 119, 119, 1);
+}
+#Training_youth_in_recognising_ {
+  left: 957px;
+  top: 1639px;
+  position: absolute;
+  overflow: visible;
+  width: 233px;
+  height: 100px;
+  line-height: 24px;
+  margin-top: -4px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(119, 119, 119, 1);
+}
+#Training_youth_in_first_aid_me_ {
+  left: 950px;
+  top: 1475px;
+  position: absolute;
+  overflow: visible;
+  width: 251px;
+  height: 214px;
+  line-height: 30px;
+  margin-top: -2.5px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgba(74, 76, 112, 1);
+}
+#image1-removebg-preview_ {
+  position: absolute;
+  width: 404px;
+  height: 403px;
+  left: 788px;
+  top: 220px;
+  overflow: visible;
+}
+#Rectangle_43 {
+  fill: rgba(255, 255, 255, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_43 {
+  position: absolute;
+  overflow: visible;
+  width: 248px;
+  height: 265px;
+  left: 90px;
+  top: 897px;
+}
+#Rectangle_44 {
+  fill: rgba(255, 255, 255, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_44 {
+  position: absolute;
+  overflow: visible;
+  width: 248px;
+  height: 265px;
+  left: 393px;
+  top: 897px;
+}
+#Rectangle_45 {
+  fill: rgba(255, 255, 255, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_45 {
+  position: absolute;
+  overflow: visible;
+  width: 248px;
+  height: 265px;
+  left: 696px;
+  top: 897px;
+}
+#Rectangle_46 {
+  fill: rgba(255, 255, 255, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_46 {
+  position: absolute;
+  overflow: visible;
+  width: 248px;
+  height: 265px;
+  left: 999px;
+  top: 897px;
+}
+#Capacity_building_for_other_or {
+  left: 156px;
+  top: 964px;
+  position: absolute;
+  overflow: hidden;
+  width: 117px;
+  height: 131px;
+  line-height: 27px;
+  margin-top: -4.5px;
+  text-align: center;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(119, 119, 119, 1);
+}
+#Capacity_building_in_mental_he {
+  left: 439px;
+  top: 989px;
+  position: absolute;
+  overflow: visible;
+  width: 157px;
+  height: 81px;
+  line-height: 27px;
+  margin-top: -4.5px;
+  text-align: center;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(119, 119, 119, 1);
+}
+#Capacity_building_in_life_skil {
+  left: 720px;
+  top: 989px;
+  position: absolute;
+  overflow: visible;
+  width: 201px;
+  height: 81px;
+  line-height: 27px;
+  margin-top: -4.5px;
+  text-align: center;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(119, 119, 119, 1);
+}
+#Capacity_building_in_personali {
+  left: 1045px;
+  top: 977px;
+  position: absolute;
+  overflow: visible;
+  width: 158px;
+  height: 106px;
+  line-height: 27px;
+  margin-top: -4.5px;
+  text-align: center;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(119, 119, 119, 1);
+}

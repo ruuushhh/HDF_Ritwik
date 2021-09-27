@@ -1,0 +1,355 @@
+.mediaViewInfo {
+  --web-view-name: Project GURU;
+  --web-view-id: Project_GURU;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: Project_GURU;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+#Project_GURU {
+  position: absolute;
+  width: 1346px;
+  height: 2392px;
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+  --web-view-name: Project GURU;
+  --web-view-id: Project_GURU;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+#Group_28 {
+  position: absolute;
+  width: 1349px;
+  height: 3079px;
+  left: -3px;
+  top: 0px;
+  overflow: visible;
+}
+#Rectangle_1 {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_1 {
+  position: absolute;
+  overflow: visible;
+  width: 1349px;
+  height: 3079px;
+  left: 0px;
+  top: 0px;
+}
+#Rectangle_52 {
+  fill: rgba(99, 169, 202, 1);
+}
+.Rectangle_52 {
+  position: absolute;
+  overflow: visible;
+  width: 1349px;
+  height: 812px;
+  left: 0px;
+  top: 1078px;
+}
+#Rectangle_6 {
+  fill: rgba(0, 0, 0, 0);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_6 {
+  position: absolute;
+  overflow: visible;
+  width: 40px;
+  height: 40px;
+  left: 299px;
+  top: 2918px;
+}
+#Rectangle_7 {
+  fill: rgba(0, 0, 0, 0);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_7 {
+  position: absolute;
+  overflow: visible;
+  width: 14px;
+  height: 16px;
+  left: 312px;
+  top: 2930px;
+}
+#Rectangle_16 {
+  fill: rgba(0, 0, 0, 0);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_16 {
+  position: absolute;
+  overflow: visible;
+  width: 25px;
+  height: 16px;
+  left: 121px;
+  top: 2873px;
+}
+#Rectangle_17 {
+  fill: rgba(0, 0, 0, 0);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_17 {
+  position: absolute;
+  overflow: visible;
+  width: 25px;
+  height: 16px;
+  left: 121px;
+  top: 2833px;
+}
+#Rectangle_18 {
+  fill: rgba(0, 0, 0, 0);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_18 {
+  position: absolute;
+  overflow: visible;
+  width: 25px;
+  height: 16px;
+  left: 121px;
+  top: 2793px;
+}
+#Rectangle_49 {
+  fill: rgba(243, 246, 255, 1);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_49 {
+  position: absolute;
+  overflow: visible;
+  width: 363px;
+  height: 104px;
+  left: 193px;
+  top: 1365px;
+}
+#Training_youth_in_first_aid_me {
+  left: 260px;
+  top: 1400px;
+  position: absolute;
+  overflow: visible;
+  width: 251px;
+  height: 104px;
+  line-height: 30px;
+  margin-top: -2.5px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgba(74, 76, 112, 1);
+}
+#Mask_Group_1 {
+  position: absolute;
+  width: 1140px;
+  height: 134px;
+  left: 106px;
+  top: 871px;
+  overflow: visible;
+}
+#Project_GURU_strives_to_achiev {
+  left: 202px;
+  top: 284px;
+  position: absolute;
+  overflow: hidden;
+  width: 503px;
+  height: 644px;
+  line-height: 27px;
+  margin-top: -4.5px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(119, 119, 119, 1);
+}
+#Project_GURU_w {
+  left: 202px;
+  top: 172px;
+  position: absolute;
+  overflow: hidden;
+  width: 419px;
+  height: 82px;
+  line-height: 76.80000305175781px;
+  margin-top: -6.400001525878906px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  color: rgba(247, 160, 114, 1);
+}
+#Rectangle_48 {
+  fill: rgba(243, 246, 255, 1);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_48 {
+  position: absolute;
+  overflow: visible;
+  width: 363px;
+  height: 104px;
+  left: 874px;
+  top: 1212px;
+}
+#Training_youth_in_first_aid_me_y {
+  left: 1000px;
+  top: 1250px;
+  position: absolute;
+  overflow: hidden;
+  width: 251px;
+  height: 104px;
+  line-height: 30px;
+  margin-top: -2.5px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgba(74, 76, 112, 1);
+}
+#Rectangle_50 {
+  fill: rgba(243, 246, 255, 1);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_50 {
+  position: absolute;
+  overflow: visible;
+  width: 335px;
+  height: 104px;
+  left: 902px;
+  top: 1540px;
+}
+#Training_youth_in_first_aid_me_ {
+  left: 1000px;
+  top: 1580px;
+  position: absolute;
+  overflow: visible;
+  width: 232px;
+  height: 104px;
+  line-height: 30px;
+  margin-top: -2.5px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgba(74, 76, 112, 1);
+}
+#Rectangle_51 {
+  fill: rgba(243, 246, 255, 1);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_51 {
+  position: absolute;
+  overflow: visible;
+  width: 304px;
+  height: 110px;
+  left: 193px;
+  top: 1683px;
+}
+#Training_youth_in_first_aid_me_ba {
+  left: 290px;
+  top: 1720px;
+  position: absolute;
+  overflow: visible;
+  width: 251px;
+  height: 104px;
+  line-height: 30px;
+  margin-top: -2.5px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgba(74, 76, 112, 1);
+}
+#image1-removebg-preview {
+  position: absolute;
+  width: 404px;
+  height: 403px;
+  left: 729px;
+  top: 336px;
+  overflow: visible;
+}
+#Aim_And_Objective {
+  left: 323px;
+  top: 1113px;
+  position: absolute;
+  overflow: hidden;
+  width: 701px;
+  height: 54px;
+  line-height: 54px;
+  margin-top: -4.5px;
+  text-align: center;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  color: rgba(255, 255, 255, 1);
+}
+#Image_2 {
+  position: absolute;
+  width: 400px;
+  height: 600px;
+  left: 489px;
+  top: 1196px;
+  overflow: visible;
+}

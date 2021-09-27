@@ -1,0 +1,774 @@
+.mediaViewInfo {
+  --web-view-name: Project RainShine;
+  --web-view-id: Project_RainShine;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-enable-scale-up: true;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: Project_RainShine;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+#Project_RainShine {
+  position: absolute;
+  width: 1346px;
+  height: 3291px;
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+  --web-view-name: Project RainShine;
+  --web-view-id: Project_RainShine;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-enable-scale-up: true;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+#Group_28 {
+  position: absolute;
+  width: 1351px;
+  height: 3079px;
+  left: -3px;
+  top: 1px;
+  overflow: visible;
+}
+#Rectangle_1 {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_1 {
+  position: absolute;
+  overflow: visible;
+  width: 1349px;
+  height: 3079px;
+  left: 2px;
+  top: 0px;
+}
+#Rectangle_6 {
+  fill: rgba(0, 0, 0, 0);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_6 {
+  position: absolute;
+  overflow: visible;
+  width: 40px;
+  height: 40px;
+  left: 299px;
+  top: 2918px;
+}
+#Rectangle_7 {
+  fill: rgba(0, 0, 0, 0);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_7 {
+  position: absolute;
+  overflow: visible;
+  width: 14px;
+  height: 16px;
+  left: 312px;
+  top: 2930px;
+}
+#Rectangle_16 {
+  fill: rgba(0, 0, 0, 0);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_16 {
+  position: absolute;
+  overflow: visible;
+  width: 25px;
+  height: 16px;
+  left: 121px;
+  top: 2873px;
+}
+#Rectangle_17 {
+  fill: rgba(0, 0, 0, 0);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_17 {
+  position: absolute;
+  overflow: visible;
+  width: 25px;
+  height: 16px;
+  left: 121px;
+  top: 2833px;
+}
+#Rectangle_18 {
+  fill: rgba(0, 0, 0, 0);
+  stroke: rgba(0, 0, 0, 0);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_18 {
+  position: absolute;
+  overflow: visible;
+  width: 25px;
+  height: 16px;
+  left: 121px;
+  top: 2793px;
+}
+#Rectangle_19 {
+  fill: rgba(201, 228, 202, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_19 {
+  position: absolute;
+  overflow: visible;
+  width: 1349px;
+  height: 496px;
+  left: 0px;
+  top: 2243px;
+}
+#Dis-advantaged_Groups {
+  left: 887px;
+  top: 2538px;
+  position: absolute;
+  overflow: visible;
+  width: 201px;
+  height: 82px;
+  line-height: 30px;
+  margin-top: -2.5px;
+  text-align: center;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgba(255, 255, 255, 1);
+}
+#Athletes {
+  left: 749px;
+  top: 2560px;
+  position: absolute;
+  overflow: visible;
+  width: 100px;
+  height: 40px;
+  line-height: 30px;
+  margin-top: -2.5px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgba(255, 255, 255, 1);
+}
+#Juvenile_Offenders {
+  left: 586px;
+  top: 2540px;
+  position: absolute;
+  overflow: visible;
+  width: 125px;
+  height: 80px;
+  line-height: 30px;
+  margin-top: -2.5px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgba(255, 255, 255, 1);
+}
+#Young_Women {
+  left: 442px;
+  top: 2548px;
+  position: absolute;
+  overflow: visible;
+  width: 106px;
+  height: 72px;
+  line-height: 30px;
+  margin-top: -2.5px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgba(255, 255, 255, 1);
+}
+#LGBTQ_Community {
+  left: 265px;
+  top: 2548px;
+  position: absolute;
+  overflow: hidden;
+  width: 139px;
+  height: 82px;
+  line-height: 30px;
+  margin-top: -2.5px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgba(255, 255, 255, 1);
+}
+#Targeted_groups_for_project_Ra {
+  left: 324px;
+  top: 2292px;
+  position: absolute;
+  overflow: visible;
+  width: 701px;
+  height: 138px;
+  line-height: 54px;
+  margin-top: -4.5px;
+  text-align: center;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  color: rgba(255, 255, 255, 1);
+}
+#Rectangle_25 {
+  fill: rgba(243, 246, 255, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_25 {
+  position: absolute;
+  overflow: visible;
+  width: 350px;
+  height: 917px;
+  left: 878px;
+  top: 1295px;
+}
+#n_3_Help_them_prepare_for_the_ {
+  left: 948px;
+  top: 1991px;
+  position: absolute;
+  overflow: visible;
+  width: 217px;
+  height: 76px;
+  line-height: 24px;
+  margin-top: -4px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(119, 119, 119, 1);
+}
+#n_2_Academic_and_industrial_tr {
+  left: 948px;
+  top: 1931px;
+  position: absolute;
+  overflow: visible;
+  width: 202px;
+  height: 48px;
+  line-height: 24px;
+  margin-top: -4px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(119, 119, 119, 1);
+}
+#n_1_Provide_relevant_soft_skil {
+  left: 948px;
+  top: 1799px;
+  position: absolute;
+  overflow: visible;
+  width: 244px;
+  height: 120px;
+  line-height: 24px;
+  margin-top: -4px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(119, 119, 119, 1);
+}
+#Capacity_building_in_Life_Skil {
+  left: 948px;
+  top: 1667px;
+  position: absolute;
+  overflow: hidden;
+  width: 251px;
+  height: 120px;
+  line-height: 30px;
+  margin-top: -2.5px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgba(74, 76, 112, 1);
+}
+#Rectangle_27 {
+  fill: rgba(243, 246, 255, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_27 {
+  position: absolute;
+  overflow: visible;
+  width: 350px;
+  height: 917px;
+  left: 501px;
+  top: 1295px;
+}
+#n_3_Delivering_the_base_module {
+  left: 568px;
+  top: 2059px;
+  position: absolute;
+  overflow: visible;
+  width: 246px;
+  height: 123px;
+  line-height: 24px;
+  margin-top: -4px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(119, 119, 119, 1);
+}
+#n_2_Understanding_the_requirem {
+  left: 568px;
+  top: 1947px;
+  position: absolute;
+  overflow: visible;
+  width: 249px;
+  height: 108px;
+  line-height: 24px;
+  margin-top: -4px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(119, 119, 119, 1);
+}
+#n__Identifying_and_contacting_ {
+  left: 568px;
+  top: 1836px;
+  position: absolute;
+  overflow: visible;
+  width: 228px;
+  height: 107px;
+  line-height: 24px;
+  margin-top: -4px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(119, 119, 119, 1);
+}
+#Training_other_organizations_i {
+  left: 568px;
+  top: 1669px;
+  position: absolute;
+  overflow: hidden;
+  width: 251px;
+  height: 180px;
+  line-height: 30px;
+  margin-top: -2.5px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgba(74, 76, 112, 1);
+}
+#Rectangle_29 {
+  fill: rgba(243, 246, 255, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_29 {
+  position: absolute;
+  overflow: visible;
+  width: 350px;
+  height: 917px;
+  left: 121px;
+  top: 1295px;
+}
+#n__Help_in_placements_for_youn {
+  left: 209px;
+  top: 2066px;
+  position: absolute;
+  overflow: visible;
+  width: 243px;
+  height: 110px;
+  line-height: 24px;
+  margin-top: -4px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(119, 119, 119, 1);
+}
+#n__Empower_them_to_get_equal_o {
+  left: 209px;
+  top: 1964px;
+  position: absolute;
+  overflow: visible;
+  width: 237px;
+  height: 112px;
+  line-height: 24px;
+  margin-top: -4px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(119, 119, 119, 1);
+}
+#n__Conduct_career_counselling_ {
+  left: 214px;
+  top: 1854px;
+  position: absolute;
+  overflow: visible;
+  width: 233px;
+  height: 110px;
+  line-height: 24px;
+  margin-top: -4px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(119, 119, 119, 1);
+}
+#n__Conduct_career_aptitude_ass {
+  left: 213px;
+  top: 1754px;
+  position: absolute;
+  overflow: visible;
+  width: 233px;
+  height: 100px;
+  line-height: 24px;
+  margin-top: -4px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(119, 119, 119, 1);
+}
+#Career_counselling_Career_Guid {
+  left: 188px;
+  top: 1677px;
+  position: absolute;
+  overflow: hidden;
+  width: 251px;
+  height: 90px;
+  line-height: 30px;
+  margin-top: -2.5px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgba(74, 76, 112, 1);
+}
+#Rectangle_31 {
+  fill: rgba(201, 228, 202, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_31 {
+  position: absolute;
+  overflow: visible;
+  width: 1349px;
+  height: 551px;
+  left: 2px;
+  top: 698px;
+}
+#Mask_Group_1 {
+  position: absolute;
+  width: 1140px;
+  height: 134px;
+  left: 106px;
+  top: 871px;
+  overflow: visible;
+}
+#Aim_And_Objective {
+  left: 326px;
+  top: 781px;
+  position: absolute;
+  overflow: hidden;
+  width: 701px;
+  height: 54px;
+  line-height: 54px;
+  margin-top: -4.5px;
+  text-align: center;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  color: rgba(0, 0, 0, 1);
+}
+#An_initiative_undertaken_by_IC {
+  left: 201px;
+  top: 340px;
+  position: absolute;
+  overflow: visible;
+  width: 476px;
+  height: 329px;
+  line-height: 27px;
+  margin-top: -4.5px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(119, 119, 119, 1);
+}
+#Project_RAINSHINE_ {
+  left: 202px;
+  top: 172px;
+  position: absolute;
+  overflow: visible;
+  width: 371px;
+  height: 164px;
+  line-height: 76.80000305175781px;
+  margin-top: -6.400001525878906px;
+  text-align: left;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  color: rgba(201, 228, 202, 1);
+}
+#image1-removebg-preview {
+  position: absolute;
+  width: 345px;
+  height: 343px;
+  left: 124px;
+  top: 1295px;
+  overflow: visible;
+}
+#image1-removebg-preview_bl {
+  position: absolute;
+  width: 345px;
+  height: 343px;
+  left: 505px;
+  top: 1295px;
+  overflow: visible;
+}
+#image1-removebg-preview_bm {
+  position: absolute;
+  width: 345px;
+  height: 343px;
+  left: 880px;
+  top: 1295px;
+  overflow: visible;
+}
+#image1-removebg-preview_bn {
+  position: absolute;
+  width: 404px;
+  height: 403px;
+  left: 748px;
+  top: 250px;
+  overflow: visible;
+}
+#Rectangle_43 {
+  fill: rgba(255, 255, 255, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_43 {
+  position: absolute;
+  overflow: visible;
+  width: 362px;
+  height: 134px;
+  left: 98px;
+  top: 897px;
+}
+#Rectangle_44 {
+  fill: rgba(255, 255, 255, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_44 {
+  position: absolute;
+  overflow: visible;
+  width: 362px;
+  height: 134px;
+  left: 492px;
+  top: 897px;
+}
+#Rectangle_45 {
+  fill: rgba(255, 255, 255, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_45 {
+  position: absolute;
+  overflow: visible;
+  width: 362px;
+  height: 134px;
+  left: 886px;
+  top: 897px;
+}
+#Rectangle_46 {
+  fill: rgba(255, 255, 255, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_46 {
+  position: absolute;
+  overflow: visible;
+  width: 362px;
+  height: 134px;
+  left: 279px;
+  top: 1072px;
+}
+#Rectangle_47 {
+  fill: rgba(255, 255, 255, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_47 {
+  position: absolute;
+  overflow: visible;
+  width: 362px;
+  height: 134px;
+  left: 696px;
+  top: 1072px;
+}
+#Capacity_building_for_other_or {
+  left: 164px;
+  top: 931px;
+  position: absolute;
+  overflow: visible;
+  width: 231px;
+  height: 66px;
+  line-height: 27px;
+  margin-top: -4.5px;
+  text-align: center;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(119, 119, 119, 1);
+}
+#Capacity_building_in_mental_he {
+  left: 558px;
+  top: 931px;
+  position: absolute;
+  overflow: visible;
+  width: 231px;
+  height: 66px;
+  line-height: 27px;
+  margin-top: -4.5px;
+  text-align: center;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(119, 119, 119, 1);
+}
+#Capacity_building_in_life_skil {
+  left: 952px;
+  top: 931px;
+  position: absolute;
+  overflow: visible;
+  width: 231px;
+  height: 66px;
+  line-height: 27px;
+  margin-top: -4.5px;
+  text-align: center;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(119, 119, 119, 1);
+}
+#Capacity_building_in_personali {
+  left: 345px;
+  top: 1106px;
+  position: absolute;
+  overflow: visible;
+  width: 231px;
+  height: 66px;
+  line-height: 27px;
+  margin-top: -4.5px;
+  text-align: center;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(119, 119, 119, 1);
+}
+#Career_guidance_career_counsel {
+  left: 771px;
+  top: 1097px;
+  position: absolute;
+  overflow: hidden;
+  width: 231px;
+  height: 85px;
+  line-height: 27px;
+  margin-top: -4.5px;
+  text-align: center;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(119, 119, 119, 1);
+}
